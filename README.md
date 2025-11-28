@@ -35,11 +35,9 @@ const mohammed = {
 ### 💻 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,bootstrap" />
-  <br/>
-  <a href="https://gsap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/greensock/greensock-original.svg" alt="gsap" width="48" height="48"/>
-  </a>
 </p>
+
+**Animation & Graphics:** GSAP, Framer Motion, Three.js
 
 ### ⚙️ Backend Development
 <p align="left">
@@ -83,6 +81,14 @@ const mohammed = {
 
 <br/>
 
+## 🎯 Current Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammeddl&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
 ## 💼 What I'm Working On
 
 - 🌱 Building modern web applications with **React** & **Next.js**
@@ -121,14 +127,6 @@ const mohammed = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohammeddl/mohammeddl/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
